@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DibrajSarkar
-- 👀 I’m interested in Software Engineering ,DevOps
+- 👀 I’m interested in Software Engineering & DevOps
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on open Source project
 - 📫 How to reach me ...
