@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DibrajSarkar
+- 👋 Hi, I’m @SA Abdullah
 - 👀 I’m interested in Software Engineering & DevOps
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on open Source project
