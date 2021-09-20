@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SA Abdullah
-- 👀 I’m interested in Software Engineering & DevOps
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Programming,Artificial Intelligenc & software Engineering
+- 🌱 I’m currently learning C Programming and Planning to move Java 
 - 💞️ I’m looking to collaborate on open Source project
 - 📫 How to reach me ...
 
