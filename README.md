@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SA Abdullah</h1>
-<h3 align="center">Hanker of Web Application Development from Dhaka,Bangladesh</h3>
+<h3 align="center">A Hanker of Web Application Development from Dhaka,Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saabdullah131&label=Profile%20views&color=0e75b6&style=flat" alt="saabdullah131" /> </p>
 
