@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/saabdullah31" target="blank"><img src="https://img.shields.io/twitter/follow/saabdullah31?logo=twitter&style=for-the-badge" alt="saabdullah31" /></a> </p>
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Application Developement**
 
 - 📫 How to reach me **saabdullah0112@gmail.com**
 
