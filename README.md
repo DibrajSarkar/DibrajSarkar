@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/saabdullah31" target="blank"><img src="https://img.shields.io/twitter/follow/saabdullah31?logo=twitter&style=for-the-badge" alt="saabdullah31" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Laravel | PHP**
 
 - 💬 Ask me about **Application Developement**
 
